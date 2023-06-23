@@ -1,9 +1,13 @@
 <div align="center">
 <h1>Welcome to RunPod</h1>
 
+RunPod is a cloud computing platform, primarily designed for AI and machine learning applications. Our key offerings include GPU Instances, Serverless GPUs, and AI Endpoints. RunPod is committed to making cloud computing accessible and affordable to all without compromising on features, usability, or experience. We strive to empower individuals and enterprises with cutting-edge technology, enabling them to unlock the potential of AI and cloud computing.
 
-RunPod is on a mission to democratize AI from the ground up. Our first goal is to bring cloud compute to all with very competitive prices without sacrificing usability, experience, or features.
+[🔗 RunPod](https://www.runpod.io/) | [📖 Docs](https://docs.runpod.io/docs) | [📚 Blogs](https://blog.runpod.io/)
+
 </div>
+
+# Join the Community
 
 <div align="center">
 
