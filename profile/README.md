@@ -7,7 +7,9 @@ RunPod is a cloud computing platform, primarily designed for AI and machine lear
 
 </div>
 
-# Join the Community
+# 🤝 | Join the Community
+
+Looking to get inspired? Checkout this curated list of [projects & resources](https://github.com/kodxana/Awesome-RunPod) built on RunPod.
 
 <div align="center">
 
