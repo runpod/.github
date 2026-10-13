@@ -7,6 +7,10 @@ Runpod is a cloud computing platform, primarily designed for AI and machine lear
 
 </div>
 
+<!-- runpod-agent-setup:start -->
+**Using an AI agent?** Point it to https://docs.runpod.io/agent-setup.md to install the Runpod skills and MCP server.
+<!-- runpod-agent-setup:end -->
+
 # 🤝 | Join the Community
 
 Looking to get inspired? Checkout this curated list of [projects & resources](https://github.com/kodxana/Awesome-RunPod) built on Runpod.
